@@ -1,0 +1,3 @@
+dbt seed -> criar tabela no seed
+
+dbt seed -f -s region - recriar tabela com full refresh selecionando apenas 1 tabela

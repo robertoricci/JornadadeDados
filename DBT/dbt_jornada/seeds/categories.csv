@@ -1,0 +1,9 @@
+"category_id","category_name","description","picture","updated_at","teste"
+10, "Beverages", "Soft drinks coffees teas beers and ales", "\x",2023-05-01 12:00:00,1
+20, "Condiments", "Sweet and savory sauces relishes spreads and seasonings", "\x",2023-05-01 12:00:00,1
+30, "Confections", "Desserts candies and sweet breads", "\x",2023-05-01 12:00:00,1
+40, "Dairy Products", "Cheeses", "\x",2023-04-01 12:00:00,1
+50, "Grains/Cereals", "Breads crackers pasta and cereal", "\x",2023-04-01 12:00:00,1
+60, "Meat/Poultry", "Prepared meats", "\x",2023-04-01 12:00:00,1
+70, "Produce", "Dried fruit and bean curd", "\x",2023-06-01 12:00:00,1
+80, "Seafood", "Seaweed and fish", "\x",2023-10-01 12:00:00,1
