@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: dbt_jornada
+    database: desenv3
+    schema: dbt
+    tables:
+      - name: customers_teste
+      - name: orders_teste
+

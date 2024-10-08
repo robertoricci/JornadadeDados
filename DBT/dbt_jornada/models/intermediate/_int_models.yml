@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: int_orders
+    columns:
+      - name: order_id
+        data_tests:
+          - not null
+          - unique
+      - name: customer_id
+        data_tests:
+            - not null
+            - relationships:
+               to: ref('stg_customers_teste')
+               field: id
+      - name: amount
+        data_tests:
+          - not null
